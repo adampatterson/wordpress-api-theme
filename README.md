@@ -5,4 +5,4 @@ WordPress theme used for a Lumen API
 
 https://twitter.com/adampatterson
 
-http://adampatterson.ca/blog/2015/05/using-wordpress-with-lumen/
+http://adampatterson.ca/blog/2015/06/using-wordpress-with-lumen/
