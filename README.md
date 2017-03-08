@@ -1,5 +1,4 @@
-# lumen-api
-WordPress theme used for a Lumen API
+#WordPress theme used for a Laravel/Lumen API
 
 **Questions?**
 
